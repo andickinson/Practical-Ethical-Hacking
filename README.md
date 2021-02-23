@@ -4,4 +4,6 @@ This repository contains code examples as taught in The Cyber Mentor's Practical
 https://www.thecybermentor.com/
 
 # ipsweep.sh
+```
 ./ipsweep.sh <IP Address>
+```
