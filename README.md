@@ -23,3 +23,9 @@ Basic math functions
 ```
 python math.py
 ```
+
+## script.py
+Adding more complex functionality such as methods and functions
+```
+python script.py
+```
