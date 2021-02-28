@@ -16,3 +16,10 @@ Testing out strings
 ```
 python first.py
 ```
+
+## math.py
+
+Basic math functions
+```
+python math.py
+```
