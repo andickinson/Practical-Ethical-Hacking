@@ -135,3 +135,9 @@ print(movies)
 
 movies.pop(0)
 print(movies)
+
+nl()
+
+# Tuples - Do not change, ()
+grades = ("a", "b", "c", "d", "f")
+print(grades[1])
