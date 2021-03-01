@@ -114,3 +114,24 @@ print(alcohol(21, 5))
 print(alcohol(21, 4))
 print(alcohol(20, 4))
 print(alcohol(20, 5))
+
+nl()
+
+# Lists - Have brackets []
+movies = ["Coco", "Toy Story", "Up", "Soul"]
+print(movies[0])
+print(movies[1])
+print(movies[1:4])
+print(movies[1:])
+print(movies[:1])
+print(movies[-1])
+
+print(len(movies))
+movies.append("Wall-e")
+print(movies)
+
+movies.pop()
+print(movies)
+
+movies.pop(0)
+print(movies)
