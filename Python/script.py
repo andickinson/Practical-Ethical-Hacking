@@ -141,3 +141,18 @@ nl()
 # Tuples - Do not change, ()
 grades = ("a", "b", "c", "d", "f")
 print(grades[1])
+
+nl()
+
+# Looping
+
+# For loop
+vegetables = ["cucumber", "spinach", "cabbage"]
+for x in vegetables:
+    print(x)
+
+# While loop
+i = 1
+while i < 10:
+    print(i)
+    i += 1
