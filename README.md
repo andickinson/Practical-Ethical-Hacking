@@ -29,3 +29,15 @@ Adding more complex functionality such as methods and functions
 ```
 python script.py
 ```
+
+## new-script.py
+Imports and strings
+```
+python new-script.py
+```
+
+## s.py
+Open socket
+```
+python s.py
+```
