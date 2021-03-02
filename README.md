@@ -41,3 +41,9 @@ Open socket
 ```
 python s.py
 ```
+
+## s.py
+Port scanner
+```
+python scanner.py <ip>
+```
