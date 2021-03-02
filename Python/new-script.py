@@ -32,3 +32,47 @@ print(letter.lower() in word.lower())
 
 movie = "The Hangover"
 print("My favorite movie is {}.".format(movie))
+
+# Dictionaries - key/value pairs {}
+drinks = {
+    "White Russian": 7, 
+    "Old Fashioned": 10, 
+    "Lemon Drop": 8
+}
+
+print(drinks)
+
+employees = {
+    "Finance": [
+        "Bob",
+        "Linda",
+        "Tina"
+    ],
+    "IT": [
+        "Gene",
+        "Louise",
+        "Teddy"
+    ],
+    "HR": [
+        "Rick",
+        "Morty"
+    ]
+}
+
+print(employees)
+
+employees["Legal"] = "Mr. Frond"
+print(employees)
+
+employees.update(
+    {
+        "Sales": [
+            "Andy",
+            "Ollie"
+        ]
+    }
+)
+print(employees)
+
+drinks["White Russian"] = 8
+print(drinks.get("White Russian"))
